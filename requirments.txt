@@ -1,0 +1,4 @@
+supabase 
+requests
+apscheduler
+realtime-py
